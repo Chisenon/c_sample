@@ -1,4 +1,6 @@
-# torima_sample
-お試しアップロード
+# c_sample
 
-Cで階段の登り方がどーのこーの言ってくる問題のアレのお試しプログラム
+party parrotをCで再生する。
+
+## 参考
+file pointer
