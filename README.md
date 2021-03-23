@@ -2,7 +2,7 @@
 
 party parrotをCで再生する。
 
-![inter](https://user-images.githubusercontent.com/55323475/112187317-56b0ee00-8c45-11eb-825b-fc0e42ae6b1e.mp4)
+![Videotogif](https://user-images.githubusercontent.com/55323475/112188605-7694e180-8c46-11eb-9c73-805738e73b47.gif)
 
 ## 参考
 file pointer
